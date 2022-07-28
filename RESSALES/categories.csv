@@ -1,0 +1,5 @@
+CATEGORIES
+cat_idx,cat_code,cat_desc,cat_indent
+1,SOLD,"New Single-family Houses Sold",0
+2,ASOLD,"Annual Rate for New Single-family Houses Sold",0
+3,FORSALE,"New Single-family Houses For Sale",0
