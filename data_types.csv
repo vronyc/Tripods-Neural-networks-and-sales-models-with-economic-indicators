@@ -1,0 +1,10 @@
+"DATA TYPES"
+dt_idx,dt_code,dt_desc,dt_unit
+1,TOTAL,"All Houses",K
+2,NOTSTD,"Houses that are Not Started",K
+3,UNDERC,"Houses that are Under Construction",K
+4,COMPED,"Houses that are Completed",K
+5,MEDIAN,"Median Sales Price",DOL
+6,AVERAG,"Average Sales Price",DOL
+7,MONSUP,"Months' Supply at Current Sales Rate",MO
+8,MMTHS,"Median Number of Months For Sale Since Completion",MO

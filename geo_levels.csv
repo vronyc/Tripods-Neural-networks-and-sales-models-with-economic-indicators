@@ -1,0 +1,7 @@
+"GEO LEVELS"
+geo_idx,geo_code,geo_desc
+1,US,"United States"
+2,NO,Northeast
+3,MW,Midwest
+4,SO,South
+5,WE,West

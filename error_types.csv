@@ -1,0 +1,10 @@
+"ERROR TYPES"
+et_idx,et_code,et_desc,et_unit
+1,E_TOTAL,"Relative Standard Error for All Houses",PCT
+2,E_NOTSTD,"Relative Standard Error for Houses that are Not Started",PCT
+3,E_UNDERC,"Relative Standard Error for Houses that are Under Construction",PCT
+4,E_COMPED,"Relative Standard Error for Houses that are Completed",PCT
+5,E_MEDIAN,"Relative Standard Error for Median Sales Price",PCT
+6,E_AVERAG,"Relative Standard Error for Average Sales Price",PCT
+7,E_MONSUP,"Relative Standard Error for Months' Supply at Current Sales Rate",PCT
+8,E_MMTHS,"Relative Standard Error for Median Number of Months For Sale Since Completion",PCT
