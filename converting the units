@@ -1,0 +1,6 @@
+def convertToDollars(dt_idx, value):
+    print(value)
+    dt_idx_num = (1, 2, 3, 4)
+    if dt_idx  in dt_idx_num:
+        value = value * 1000
+    print(value)
